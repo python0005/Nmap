@@ -1,0 +1,1 @@
+This project demonstrates a basic network scanning process using Nmap to identify live hosts, open ports, and active services within a local subnet. The scan was conducted from a Kali Linux virtual machine targeting the 10.98.216.0/24 network. The findings provide insight into network security posture and potential exposure points.
